@@ -68,7 +68,7 @@ const slides = [
   // ... остальные слайды без изменений
   {
     title: '7. Farcaster',
-    overview: 'Farcaster is a decentralized social network (SocialFi) on the Base, with millions of active addresses. It allows you to post, interact through frames, and build on-chain communities. Real-world usage: Users discuss crypto, share memes, and monetize content through tips and NFTs. In 2026, Farcaster is integrated with Base for seamless payments, with daily traffic in millions of posts. It is an alternative to centralized social networks, focusing on privacy and ownership of data.',
+    overview: 'Farcaster is a decentralized social network (SocialFi) with millions of active addresses. It allows you to post messages, interact through frames, and create online communities. It is an alternative to centralized social networks, focused on privacy and data ownership.',
     bgImage: 'https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/farcaster-temp-gID_5-pID_1.png@webp',
     textColor: '#001F3F',
     strokeColor: 'black',
