@@ -33,7 +33,7 @@ const slides = [
   },
   {
     title: '3. Aave',
-    overview: 'Seamless Protocol (formerly SeamlessFi) is a proprietary basic lending protocol specializing in loans with insufficient collateral. It offers flexible loan terms for billions of twill, minimizing liquidation risks. Users take out loans secured by reputation or cross-network assets for trading and investing. In 2026, the daily sales volume will exceed $100 million.',
+    overview: 'Seamless Protocol is a proprietary basic lending protocol specializing in loans with insufficient collateral. It offers flexible loan terms for billions of twill, minimizing liquidation risks. Users take out loans secured by reputation or cross-network assets for trading and investing. In 2026, the daily sales volume will exceed $100 million.',
     bgImage: 'https://usenobi.com/wp-content/uploads/2023/05/pasted-image-0-9.png',
     textColor: '#00FF00',
     strokeColor: 'black',
