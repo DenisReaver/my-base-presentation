@@ -51,7 +51,7 @@ const slides = [
   },
  {
     title: '5. Seamless Protocol',
-    overview: 'Seamless Protocol (formerly SeamlessFi) is a proprietary Base-based lending protocol specializing in loans with insufficient collateral. It offers flexible loan terms for billions of TVL, minimizing the risks of liquidation. Real-world use: users take out loans secured by reputation or cross-network assets for trading and investing. In 2026, the daily sales volume will exceed $100 million.',
+    overview: 'Seamless Protocol is a proprietary Base-based lending protocol specializing in loans with insufficient collateral. It offers flexible loan terms for billions of TVL, minimizing the risks of liquidation. Real-world use: users take out loans secured by reputation or cross-network assets for trading and investing. In 2026, the daily sales volume will exceed $100 million.',
     bgImage: 'https://framerusercontent.com/images/Vc6vqkO3dosttl2IxzwwjKj4KM.png',
     textColor: '#001F3F',        // Текущий тёмно-синий
     strokeColor: 'black',
