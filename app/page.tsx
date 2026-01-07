@@ -33,7 +33,7 @@ const slides = [
   },
   {
     title: '3. Aave',
-    overview: 'Aave is a classic DeFi lending protocol deployed on Base for low fees and fast processing. It offers deposits, loans, flash loans and yield farming with TVL in the billions. Users actually use it to leverage positions, hedge, and earn interest. In 2026, Aave on Base has millions of daily transactions, integrating with Coinbase Wallet for mass adoption. Key features: variable/stable rates, collateral swaps and governance via the AAVE token. It is a reliable tool for both retail and institutional investors.',
+    overview: 'Aave is a classic DeFi lending protocol developed on the basis of Base to ensure low fees and fast processing. It offers deposits, loans, term loans, and billions of dollars in increased profitability. Users actually use it to raise borrowed funds, hedge, and earn interest. In 2026, Aave on Base will carry out millions of daily transactions, integrating with the Coinbase wallet for mass adoption.',
     bgImage: 'https://usenobi.com/wp-content/uploads/2023/05/pasted-image-0-9.png',
     textColor: '#00FF00',
     strokeColor: 'black',
