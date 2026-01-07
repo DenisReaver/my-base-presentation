@@ -2,11 +2,8 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Top 10 BASE ecosystem projects', 
+  title: 'Top 10 BASE ecosystem projects',
   description: 'Presentation of the best projects of the Base ecosystem',
-  icons: {
-    icon: '/favicon.ico', 
-  },
 };
 
 export default function RootLayout({
@@ -16,4 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ru">
-      <bo
+      <body>{children}</body>
+    </html>
+  );
+}
