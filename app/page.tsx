@@ -24,7 +24,7 @@ const slides = [
   },
   {
     title: '2. Morpho',
-    overview: 'Morpho is an innovative lending protocol on Base, optimized for maximum efficiency. Unlike traditional lending platforms, Morpho uses peer-to-peer matching for better bets and reduced risks. TVL reaches billions of dollars, with daily borrowings in the millions. Real-world application: DeFi farmers borrow at low interest rates for yield optimization, while lenders receive high APY. In 2026, Morpho is integrated with multiple dApps, providing seamless borrowing without recollateralization. This makes it key for institutional users in the Base ecosystem.',
+    overview: 'Morpho is an innovative basic lending protocol optimized for maximum efficiency. Unlike traditional lending platforms, Morpho uses peer-to-peer matching to raise rates and reduce risks. TVL reaches billions of dollars, and daily borrowings are in the millions.',
     bgImage: 'https://help.defisaver.com/~gitbook/ogimage/wqM00strfoiJQnVjBMW7',
     textColor: 'white',
     strokeColor: 'black',
