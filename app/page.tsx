@@ -84,8 +84,8 @@ const slides = [
     glowColor: 'white',
   },
   {
-    title: '9. Base App (Coinbase-integrated)',
-    overview: 'The Base App is the official app for the Base ecosystem, integrated with Coinbase. It provides onboarding, USDC payments, and access to dApps. Real-world application: Users conduct transactions in real life by integrating with Shopify for e-commerce. There are millions of users in 2026, with billions in daily payments. Low fees and security make it a gateway for mass adoption.',
+    title: '9. Base App ',
+    overview: 'The Base app is the official app for the Base ecosystem integrated with Coinbase. It provides registration, payments in US dollars and access to dApps. Real-world application: Users conduct transactions in real life by integrating with Shopify for e-commerce. In 2026, the number of users will be in the millions, and daily payments in the billions.',
     bgImage: 'https://img.paragraph.com/cdn-cgi/image/format=auto,width=1080,quality=85/https://storage.googleapis.com/papyrus_images/bbe51c31ca7c3ba9ca0b35127ac351cbfa4de0085bca2aaa48c1ca050b4daba6.jpg',
     textColor: 'white',
     strokeColor: 'black',
