@@ -14,7 +14,7 @@ const slides = [
     referralLink: null,
   },
   {
-    title: '1. Aerodrome Finance (AERO)',
+    title: '1. Aerodrome Finance',
     overview: 'Aerodrome Finance is a leading decentralized exchange. (DEX) is based on the Velodrome platform. It dominates the ecosystem with a daily trading volume of hundreds of millions of dollars. Users can exchange tokens, provide liquidity to pools, and receive rewards using the AERO token.',
     bgImage: 'https://iq.wiki/cdn-cgi/image/width=1920,quality=70/https://ipfs.everipedia.org/ipfs/QmYX3kaomHsEN6DeAow43DX2amyfeve5kGxdBuJeaKAeH9',
     textColor: '#001F3F',
