@@ -51,7 +51,7 @@ const slides = [
   },
  {
     title: '5. Seamless Protocol',
-    overview: 'Seamless Protocol (formerly SeamlessFi) is a native lending protocol on Base specializing in undercollateralized loans. It offers flexible loans with billions of TVL, minimizing liquidation risks. Real-world use: users borrow against reputation or cross-chain assets for trading and investing. In 2026, daily volumes exceed $100 million, with integration into DEX as Aerodrome. Features include automated repayments and yield boosts, making it ideal for advanced DeFi users.',
+    overview: 'Seamless Protocol (formerly SeamlessFi) is a proprietary Base-based lending protocol specializing in loans with insufficient collateral. It offers flexible loan terms for billions of TVL, minimizing the risks of liquidation. Real-world use: users take out loans secured by reputation or cross-network assets for trading and investing. In 2026, the daily sales volume will exceed $100 million.',
     bgImage: 'https://framerusercontent.com/images/Vc6vqkO3dosttl2IxzwwjKj4KM.png',
     textColor: '#001F3F',        // Текущий тёмно-синий
     strokeColor: 'black',
