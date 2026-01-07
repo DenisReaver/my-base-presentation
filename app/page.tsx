@@ -77,7 +77,7 @@ const slides = [
   },
  {
     title: '8. Extra Finance',
-    overview: 'Extra Finance — yield is an optimizer and a lending platform on Base, focusing on automated farming. It maximizes APY through compounding and strategies. Real-world usage: Users deposit assets for passive income, with TVL in the billions. In 2026, Extra is integrated with DEX, offering low-risk vaults. This simplifies DeFi for beginners by generating a stable yield in a volatile market.',
+    overview: 'Extra Finance — yield is an optimizer and a basic lending platform focused on automated farming. It maximizes profitability through formulations and strategies. Users place assets to generate passive income in the billions of TVL.',
     bgImage: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*vN0zwTIhG51hX_UhKRM4gw.jpeg',
     textColor: 'white',          // Белый
     strokeColor: 'black',
